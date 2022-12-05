@@ -1,0 +1,8 @@
+C:\Users\Nida\Desktop\ödevler\datetime\datetime\bin\Debug\datetime.exe.config
+C:\Users\Nida\Desktop\ödevler\datetime\datetime\bin\Debug\datetime.exe
+C:\Users\Nida\Desktop\ödevler\datetime\datetime\bin\Debug\datetime.pdb
+C:\Users\Nida\Desktop\ödevler\datetime\datetime\obj\Debug\datetime.csproj.AssemblyReference.cache
+C:\Users\Nida\Desktop\ödevler\datetime\datetime\obj\Debug\datetime.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nida\Desktop\ödevler\datetime\datetime\obj\Debug\datetime.csproj.CoreCompileInputs.cache
+C:\Users\Nida\Desktop\ödevler\datetime\datetime\obj\Debug\datetime.exe
+C:\Users\Nida\Desktop\ödevler\datetime\datetime\obj\Debug\datetime.pdb

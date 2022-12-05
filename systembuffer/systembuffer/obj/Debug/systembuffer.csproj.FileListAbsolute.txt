@@ -1,0 +1,8 @@
+C:\Users\Nida\Desktop\ödevler\systembuffer\systembuffer\obj\Debug\systembuffer.csproj.AssemblyReference.cache
+C:\Users\Nida\Desktop\ödevler\systembuffer\systembuffer\obj\Debug\systembuffer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nida\Desktop\ödevler\systembuffer\systembuffer\obj\Debug\systembuffer.csproj.CoreCompileInputs.cache
+C:\Users\Nida\Desktop\ödevler\systembuffer\systembuffer\bin\Debug\systembuffer.exe.config
+C:\Users\Nida\Desktop\ödevler\systembuffer\systembuffer\bin\Debug\systembuffer.exe
+C:\Users\Nida\Desktop\ödevler\systembuffer\systembuffer\bin\Debug\systembuffer.pdb
+C:\Users\Nida\Desktop\ödevler\systembuffer\systembuffer\obj\Debug\systembuffer.exe
+C:\Users\Nida\Desktop\ödevler\systembuffer\systembuffer\obj\Debug\systembuffer.pdb

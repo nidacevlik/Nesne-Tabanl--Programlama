@@ -1,0 +1,8 @@
+C:\Users\Nida\Desktop\ödevler\yapılar\yapılar\bin\Debug\yapılar.exe.config
+C:\Users\Nida\Desktop\ödevler\yapılar\yapılar\bin\Debug\yapılar.exe
+C:\Users\Nida\Desktop\ödevler\yapılar\yapılar\bin\Debug\yapılar.pdb
+C:\Users\Nida\Desktop\ödevler\yapılar\yapılar\obj\Debug\yapılar.csproj.AssemblyReference.cache
+C:\Users\Nida\Desktop\ödevler\yapılar\yapılar\obj\Debug\yapılar.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nida\Desktop\ödevler\yapılar\yapılar\obj\Debug\yapılar.csproj.CoreCompileInputs.cache
+C:\Users\Nida\Desktop\ödevler\yapılar\yapılar\obj\Debug\yapılar.exe
+C:\Users\Nida\Desktop\ödevler\yapılar\yapılar\obj\Debug\yapılar.pdb

@@ -1,0 +1,8 @@
+C:\Users\Nida\Desktop\ödevler\isimalanı\isimalanı\bin\Debug\isimalanı.exe.config
+C:\Users\Nida\Desktop\ödevler\isimalanı\isimalanı\bin\Debug\isimalanı.exe
+C:\Users\Nida\Desktop\ödevler\isimalanı\isimalanı\bin\Debug\isimalanı.pdb
+C:\Users\Nida\Desktop\ödevler\isimalanı\isimalanı\obj\Debug\isimalanı.csproj.AssemblyReference.cache
+C:\Users\Nida\Desktop\ödevler\isimalanı\isimalanı\obj\Debug\isimalanı.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nida\Desktop\ödevler\isimalanı\isimalanı\obj\Debug\isimalanı.csproj.CoreCompileInputs.cache
+C:\Users\Nida\Desktop\ödevler\isimalanı\isimalanı\obj\Debug\isimalanı.exe
+C:\Users\Nida\Desktop\ödevler\isimalanı\isimalanı\obj\Debug\isimalanı.pdb

@@ -1,0 +1,8 @@
+C:\Users\Nida\Desktop\ödevler\sınıf3\sınıf3\bin\Debug\sınıf3.exe.config
+C:\Users\Nida\Desktop\ödevler\sınıf3\sınıf3\bin\Debug\sınıf3.exe
+C:\Users\Nida\Desktop\ödevler\sınıf3\sınıf3\bin\Debug\sınıf3.pdb
+C:\Users\Nida\Desktop\ödevler\sınıf3\sınıf3\obj\Debug\sınıf3.csproj.AssemblyReference.cache
+C:\Users\Nida\Desktop\ödevler\sınıf3\sınıf3\obj\Debug\sınıf3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nida\Desktop\ödevler\sınıf3\sınıf3\obj\Debug\sınıf3.csproj.CoreCompileInputs.cache
+C:\Users\Nida\Desktop\ödevler\sınıf3\sınıf3\obj\Debug\sınıf3.exe
+C:\Users\Nida\Desktop\ödevler\sınıf3\sınıf3\obj\Debug\sınıf3.pdb

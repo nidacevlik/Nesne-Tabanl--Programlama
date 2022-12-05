@@ -1,0 +1,8 @@
+C:\Users\Nida\Desktop\ödevler\bitconverter\bitconverter\bin\Debug\bitconverter.exe.config
+C:\Users\Nida\Desktop\ödevler\bitconverter\bitconverter\bin\Debug\bitconverter.exe
+C:\Users\Nida\Desktop\ödevler\bitconverter\bitconverter\bin\Debug\bitconverter.pdb
+C:\Users\Nida\Desktop\ödevler\bitconverter\bitconverter\obj\Debug\bitconverter.csproj.AssemblyReference.cache
+C:\Users\Nida\Desktop\ödevler\bitconverter\bitconverter\obj\Debug\bitconverter.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nida\Desktop\ödevler\bitconverter\bitconverter\obj\Debug\bitconverter.csproj.CoreCompileInputs.cache
+C:\Users\Nida\Desktop\ödevler\bitconverter\bitconverter\obj\Debug\bitconverter.exe
+C:\Users\Nida\Desktop\ödevler\bitconverter\bitconverter\obj\Debug\bitconverter.pdb

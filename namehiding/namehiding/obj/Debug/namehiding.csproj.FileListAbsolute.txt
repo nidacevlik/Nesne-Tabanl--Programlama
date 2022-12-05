@@ -1,0 +1,3 @@
+C:\Users\Nida\Desktop\ödevler\namehiding\namehiding\obj\Debug\namehiding.csproj.AssemblyReference.cache
+C:\Users\Nida\Desktop\ödevler\namehiding\namehiding\obj\Debug\namehiding.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nida\Desktop\ödevler\namehiding\namehiding\obj\Debug\namehiding.csproj.CoreCompileInputs.cache

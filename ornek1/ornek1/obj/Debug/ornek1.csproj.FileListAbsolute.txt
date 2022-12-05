@@ -1,0 +1,8 @@
+C:\Users\Nida\Desktop\ödevler\ornek1\ornek1\bin\Debug\ornek1.exe.config
+C:\Users\Nida\Desktop\ödevler\ornek1\ornek1\bin\Debug\ornek1.exe
+C:\Users\Nida\Desktop\ödevler\ornek1\ornek1\bin\Debug\ornek1.pdb
+C:\Users\Nida\Desktop\ödevler\ornek1\ornek1\obj\Debug\ornek1.csproj.AssemblyReference.cache
+C:\Users\Nida\Desktop\ödevler\ornek1\ornek1\obj\Debug\ornek1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nida\Desktop\ödevler\ornek1\ornek1\obj\Debug\ornek1.csproj.CoreCompileInputs.cache
+C:\Users\Nida\Desktop\ödevler\ornek1\ornek1\obj\Debug\ornek1.exe
+C:\Users\Nida\Desktop\ödevler\ornek1\ornek1\obj\Debug\ornek1.pdb

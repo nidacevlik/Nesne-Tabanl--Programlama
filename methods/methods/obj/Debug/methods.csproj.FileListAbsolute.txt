@@ -1,0 +1,8 @@
+C:\Users\Nida\Desktop\ödevler\methods\methods\bin\Debug\methods.exe.config
+C:\Users\Nida\Desktop\ödevler\methods\methods\bin\Debug\methods.exe
+C:\Users\Nida\Desktop\ödevler\methods\methods\bin\Debug\methods.pdb
+C:\Users\Nida\Desktop\ödevler\methods\methods\obj\Debug\methods.csproj.AssemblyReference.cache
+C:\Users\Nida\Desktop\ödevler\methods\methods\obj\Debug\methods.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nida\Desktop\ödevler\methods\methods\obj\Debug\methods.csproj.CoreCompileInputs.cache
+C:\Users\Nida\Desktop\ödevler\methods\methods\obj\Debug\methods.exe
+C:\Users\Nida\Desktop\ödevler\methods\methods\obj\Debug\methods.pdb

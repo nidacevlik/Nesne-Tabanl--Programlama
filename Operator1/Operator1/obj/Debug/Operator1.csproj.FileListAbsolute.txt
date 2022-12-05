@@ -1,0 +1,8 @@
+C:\Users\Nida\Desktop\ödevler\Operator1\Operator1\bin\Debug\Operator1.exe.config
+C:\Users\Nida\Desktop\ödevler\Operator1\Operator1\bin\Debug\Operator1.exe
+C:\Users\Nida\Desktop\ödevler\Operator1\Operator1\bin\Debug\Operator1.pdb
+C:\Users\Nida\Desktop\ödevler\Operator1\Operator1\obj\Debug\Operator1.csproj.AssemblyReference.cache
+C:\Users\Nida\Desktop\ödevler\Operator1\Operator1\obj\Debug\Operator1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nida\Desktop\ödevler\Operator1\Operator1\obj\Debug\Operator1.csproj.CoreCompileInputs.cache
+C:\Users\Nida\Desktop\ödevler\Operator1\Operator1\obj\Debug\Operator1.exe
+C:\Users\Nida\Desktop\ödevler\Operator1\Operator1\obj\Debug\Operator1.pdb

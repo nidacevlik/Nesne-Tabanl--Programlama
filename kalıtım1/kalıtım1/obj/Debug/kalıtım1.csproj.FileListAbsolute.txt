@@ -1,0 +1,8 @@
+C:\Users\Nida\Desktop\ödevler\kalıtım1\kalıtım1\bin\Debug\kalıtım1.exe.config
+C:\Users\Nida\Desktop\ödevler\kalıtım1\kalıtım1\bin\Debug\kalıtım1.exe
+C:\Users\Nida\Desktop\ödevler\kalıtım1\kalıtım1\bin\Debug\kalıtım1.pdb
+C:\Users\Nida\Desktop\ödevler\kalıtım1\kalıtım1\obj\Debug\kalıtım1.csproj.AssemblyReference.cache
+C:\Users\Nida\Desktop\ödevler\kalıtım1\kalıtım1\obj\Debug\kalıtım1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nida\Desktop\ödevler\kalıtım1\kalıtım1\obj\Debug\kalıtım1.csproj.CoreCompileInputs.cache
+C:\Users\Nida\Desktop\ödevler\kalıtım1\kalıtım1\obj\Debug\kalıtım1.exe
+C:\Users\Nida\Desktop\ödevler\kalıtım1\kalıtım1\obj\Debug\kalıtım1.pdb

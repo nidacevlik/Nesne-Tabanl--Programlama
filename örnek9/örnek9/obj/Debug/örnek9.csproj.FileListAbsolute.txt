@@ -1,0 +1,8 @@
+C:\Users\Nida\Desktop\ödevler\örnek9\örnek9\bin\Debug\örnek9.exe.config
+C:\Users\Nida\Desktop\ödevler\örnek9\örnek9\bin\Debug\örnek9.exe
+C:\Users\Nida\Desktop\ödevler\örnek9\örnek9\bin\Debug\örnek9.pdb
+C:\Users\Nida\Desktop\ödevler\örnek9\örnek9\obj\Debug\örnek9.csproj.AssemblyReference.cache
+C:\Users\Nida\Desktop\ödevler\örnek9\örnek9\obj\Debug\örnek9.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nida\Desktop\ödevler\örnek9\örnek9\obj\Debug\örnek9.csproj.CoreCompileInputs.cache
+C:\Users\Nida\Desktop\ödevler\örnek9\örnek9\obj\Debug\örnek9.exe
+C:\Users\Nida\Desktop\ödevler\örnek9\örnek9\obj\Debug\örnek9.pdb

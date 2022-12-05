@@ -1,0 +1,8 @@
+C:\Users\Nida\Desktop\ödevler\indeksleyici\indeksleyici\bin\Debug\indeksleyici.exe.config
+C:\Users\Nida\Desktop\ödevler\indeksleyici\indeksleyici\bin\Debug\indeksleyici.exe
+C:\Users\Nida\Desktop\ödevler\indeksleyici\indeksleyici\bin\Debug\indeksleyici.pdb
+C:\Users\Nida\Desktop\ödevler\indeksleyici\indeksleyici\obj\Debug\indeksleyici.csproj.AssemblyReference.cache
+C:\Users\Nida\Desktop\ödevler\indeksleyici\indeksleyici\obj\Debug\indeksleyici.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nida\Desktop\ödevler\indeksleyici\indeksleyici\obj\Debug\indeksleyici.csproj.CoreCompileInputs.cache
+C:\Users\Nida\Desktop\ödevler\indeksleyici\indeksleyici\obj\Debug\indeksleyici.exe
+C:\Users\Nida\Desktop\ödevler\indeksleyici\indeksleyici\obj\Debug\indeksleyici.pdb

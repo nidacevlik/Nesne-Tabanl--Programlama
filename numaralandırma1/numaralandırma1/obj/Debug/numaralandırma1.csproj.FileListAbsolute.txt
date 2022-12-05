@@ -1,0 +1,8 @@
+C:\Users\Nida\Desktop\ödevler\numaralandırma1\numaralandırma1\bin\Debug\numaralandırma1.exe.config
+C:\Users\Nida\Desktop\ödevler\numaralandırma1\numaralandırma1\bin\Debug\numaralandırma1.exe
+C:\Users\Nida\Desktop\ödevler\numaralandırma1\numaralandırma1\bin\Debug\numaralandırma1.pdb
+C:\Users\Nida\Desktop\ödevler\numaralandırma1\numaralandırma1\obj\Debug\numaralandırma1.csproj.AssemblyReference.cache
+C:\Users\Nida\Desktop\ödevler\numaralandırma1\numaralandırma1\obj\Debug\numaralandırma1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nida\Desktop\ödevler\numaralandırma1\numaralandırma1\obj\Debug\numaralandırma1.csproj.CoreCompileInputs.cache
+C:\Users\Nida\Desktop\ödevler\numaralandırma1\numaralandırma1\obj\Debug\numaralandırma1.exe
+C:\Users\Nida\Desktop\ödevler\numaralandırma1\numaralandırma1\obj\Debug\numaralandırma1.pdb
